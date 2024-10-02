@@ -1,2 +1,2 @@
 # BioStruct-CodeVault
-Codes which deal biomolecule structures
+Codes to deal biomolecule structures
